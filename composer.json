@@ -1,0 +1,19 @@
+{
+    "name": "drfet/hello",
+    "description": "this is for test",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Drfet\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "reza moghadam",
+            "email": "dr.fet91@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
